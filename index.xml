@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VIM tips</title>
+    <link>https://vim.tips/</link>
+    <description>Recent content on VIM tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Apr 2018 14:11:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://vim.tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://vim.tips/test/</link>
+      <pubDate>Sat, 28 Apr 2018 14:11:52 +0200</pubDate>
+      
+      <guid>https://vim.tips/test/</guid>
+      <description> test </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vim.tips/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vim.tips/readme/</guid>
+      <description>source vim.tips source</description>
+    </item>
+    
+  </channel>
+</rss>
